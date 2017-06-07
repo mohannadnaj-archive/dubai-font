@@ -10,6 +10,7 @@ This is a web distribution Repository for [Dubai Font](https://dubaifont.com).
 
 ![Screenshot](https://mohannadnaj.github.io/dubai-font/screenshot.png)
 
+Live Demo: [https://mohannadnaj.github.io/dubai-font/](https://mohannadnaj.github.io/dubai-font/)
 ## Installation
 
 ### *Download*
