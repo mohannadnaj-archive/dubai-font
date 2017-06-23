@@ -1,6 +1,6 @@
 # Dubai Font
 
-[![npm version](https://badge.fury.io/js/dubai-font.svg)](http://badge.fury.io/js/lato-font)
+[![npm version](https://badge.fury.io/js/dubai-font.svg)](http://badge.fury.io/js/dubai-font)
 
 This is a web distribution Repository for [Dubai Font](https://dubaifont.com).
 
