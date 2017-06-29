@@ -6,12 +6,27 @@ This is a web distribution Repository for [Dubai Font](https://dubaifont.com).
 
 **This is not an official repository,** this is just a way to ease installation of Dubai Font for web developers. suitable to be used with [npm](https://www.npmjs.com). `npm install dubai-font --save-dev`
 
+Live Demo: [https://mohannadnaj.github.io/dubai-font/](https://mohannadnaj.github.io/dubai-font/)
+
 ## Screenshots
 
 ![Screenshot](https://mohannadnaj.github.io/dubai-font/screenshot.png)
 
-Live Demo: [https://mohannadnaj.github.io/dubai-font/](https://mohannadnaj.github.io/dubai-font/)
 ## Installation
+
+### *CDN* :
+
+#### jsdelivr:
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/dubai-font@1.0.1/dubai-font/css/dubai-font.css">
+
+#### unpkg:
+
+    <link rel="stylesheet" href="https://unpkg.com/dubai-font@1.0.1/dubai-font/css/dubai-font.css">
+
+#### rawgit:
+
+check out [rtaibah/dubai-font-cdn](https://github.com/rtaibah/dubai-font-cdn/) repoistory.
 
 ### *Download*
 
@@ -81,9 +96,6 @@ You can use it by adding the css classes: `font-dubai-bold` , `font-dubai-medium
     let mix = require('laravel-mix');
     mix.copy('node_modules/dubai-font/dubai-font/', 'public/');
 
-## CDN Option
-
-check out [rtaibah/dubai-font-cdn](https://github.com/rtaibah/dubai-font-cdn/) repoistory.
 
 ## License & Blah blah blah...
 
