@@ -1,6 +1,8 @@
 # Dubai Font
 
-[![npm version](https://badge.fury.io/js/dubai-font.svg)](http://badge.fury.io/js/dubai-font)
+[![npm version](https://badge.fury.io/js/dubai-font.svg)](https://www.npmjs.com/package/dubai-font)
+[![npm downloads](https://img.shields.io/npm/dt/dubai-font.svg)](https://www.npmjs.com/package/dubai-font)
+[![jsdelivr hits](https://data.jsdelivr.com/v1/package/npm/dubai-font/badge)](https://www.jsdelivr.com/package/npm/dubai-font)
 
 This is a web distribution Repository for [Dubai Font](https://dubaifont.com).
 
