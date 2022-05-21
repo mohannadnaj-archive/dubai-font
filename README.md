@@ -101,6 +101,6 @@ You can use it by adding the css classes: `font-dubai-bold` , `font-dubai-medium
     mix.copy('node_modules/dubai-font/dubai-font/', 'public/');
 
 
-## License & Blah blah blah...
+----
 
- Font files are downloaded from http://www.dubaifont.com and they hold all the rights for this font. Contact [The Executive Council Dubai](https://dubaifont.com/contact).
+Font files are downloaded from http://www.dubaifont.com and they hold all the rights for this font. Contact [The Executive Council Dubai](https://dubaifont.com/contact) for further inqueries.
